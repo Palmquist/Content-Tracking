@@ -1,0 +1,1 @@
+This is the work in progress code for the Mack Web Solutions creative content request tracking app. As the code is created, this readme will be updated to cover new functionality. If you want to know how the code itself works, the best thing to do is to read the comments in each file.
